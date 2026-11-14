@@ -12,9 +12,9 @@ I wanted to show an moving artwork with the coding we have learned.
 - __Black or Dark Blue Base Background__
   - Most likely will use a bluish background and I will using pygame with screen.fill to display it.
 - __Landscape Background__
- - Will use turtle to draw either hills or mountains on top of the base backgrund.
+  - Will use turtle to draw either hills or mountains on top of the base backgrund.
 - __Crescent Moon Shape__
- - I will display a white or yellow crescent moon at the top right of the screen with turtle.
+  - I will display a white or yellow crescent moon at the top right of the screen with turtle.
 - __Star Shape__
   - I will use turtle and pygame to have the shapes being drawn using a loop.
 - __Fade in & out__
